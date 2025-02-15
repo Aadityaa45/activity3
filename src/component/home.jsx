@@ -41,7 +41,6 @@ function Home() {
             <div className="container p-1 mt-5"
                 style={{
                     borderRadius: "8px",
-                    borderRadius: "12px",
                     background: "rgba(0, 0, 0, 0.6)",
                     height:"auto"
                 }}
